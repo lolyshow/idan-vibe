@@ -19,7 +19,7 @@ module.exports = {
 			},
 			colors: {
 				"fluo-green": "#43ffb6",
-				"yellow-btn-primary": "#ffc621",
+				"yellow-btn-primary": "#b07f32",
 				"medium-gray": "#bebebe",
 			},
 			boxShadow: {
