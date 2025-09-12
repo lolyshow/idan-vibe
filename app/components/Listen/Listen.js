@@ -27,11 +27,11 @@ export default function Listen() {
 							className={`font-bold text-lg pb-6 translate-y-36 md:translate-y-24 ${
 								isInView ? "animate-slideUp" : ""
 							}`}>
-							Our live performace a London
+							Our live performace at London
 						</h2>
 					</div>
 					<p>
-						Sit back relax and enjoy good music. Idan vibes is definitely a good plug to make you dance like never before
+						Sit back relax and enjoy good music. Idan vibes is definitely a good plug to make you dance like never before.
 					</p>
 					<div className="flex items-center pt-4 gap-4">
 						<Spotify />
