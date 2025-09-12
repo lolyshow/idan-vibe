@@ -15,7 +15,7 @@ export default function ContactUs() {
 			className={`relative flex flex-col-reverse items-center w-full mt-16 mx-auto max-w-[150rem] lg:mt-56 lg:flex-row`}>
 			<Image
 				className="mt-5 max-h-96 object-cover lg:mt-0 lg:max-h-none lg:max-w-lg lg:block xl:max-w-xl"
-				src="/contact_us.jpg"
+				src="/contact_us_img.jpg"
 				width={750}
 				height={533}
 				alt="Band playing"
