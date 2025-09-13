@@ -5,6 +5,7 @@ import Shows from "./components/Shows/Shows";
 import ContactUs from "./components/ContactUs/ContactUs";
 import PhotoGallery from "./components/PhotoGallery/PhotoGallery";
 import TextParallax from "./components/TextParallax/TextParallax";
+import Team from "./components/Team/Team";
 export default function Home() {
 	return (
 		<>
@@ -12,10 +13,10 @@ export default function Home() {
 				<Intro />
 				<About />
 				<Listen />
-				{/* <Shows /> */}
 				<ContactUs />
 				<TextParallax />
 				<PhotoGallery />
+				<Team />
 			</main>
 		</>
 	);
