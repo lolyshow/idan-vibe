@@ -1,73 +1,93 @@
 "use client";
 import "yet-another-react-lightbox/styles.css";
-
+import { FaInstagram } from "react-icons/fa";
 
 const members = [
   {
-    name: "Omoluwabi",
-    role: "Singer",
-    image: "/gallery/team/team1_media_sing.jpg",
+    name: "Olanrewaju",
+    role: "Singer & Manager",
+    image: "/gallery/team/team3_manager.jpg",
+    instagram: "https://instagram.com/mopol213"
   },
   {
     name: "Greekreation",
     role: "Singer",
     image: "/gallery/team/team2_singer.jpg",
+    instagram: "https://instagram.com/its.greenkreations"
   },
   {
-    name: "Olanrewaju",
-    role: "Singer & Manager",
-    image: "/gallery/team/team3_manager.jpg",
+    name: "Omoluwabi",
+    role: "Singer",
+    image: "/gallery/team/team1_media_sing.jpg",
+    instagram: "https://instagram.com/iamadeolutayo"
   },
   {
     name: "Segun",
     role: "Drummer",
     image: "/gallery/team/team4_drumer.jpg",
+    instagram: "https://instagram.com/alicejohnson"
   },
   {
     name: "Tolu",
     role: "Singer",
     image: "/gallery/team/team5_singer.jpg",
+    instagram: "https://instagram.com/shangii_tee"
   },
   {
     name: "Mathew",
     role: "Keyboardist",
     image: "/gallery/team/team6_pianist.jpg",
+    instagram: "https://instagram.com/m.f.deniyi"
   },
   {
     name: "Stephanie",
     role: "Guitarist",
     image: "/gallery/team/team7_lead_guitarist.jpg",
+    instagram: "https://instagram.com/stephanieekekwe"
   },
   {
     name: "Dapo",
     role: "Singer",
     image: "/gallery/team/team8_singer.jpg",
+    instagram: "https://instagram.com/idanvibes_"
   },
   {
     name: "Tobi",
     role: "Drummer",
     image: "/gallery/team/team9_drummer.jpg",
+    instagram: "https://instagram.com/_.oluwatobiloba"
   },
   {
     name: "Babalola",
     role: "Lead Guitarist",
     image: "/gallery/team/team10_guitarist.jpg",
+    instagram: "https://instagram.com/lola_soskol"
+  },
+  {
+    name: "teestrings_official",
+    role: "Lead Guitarist",
+    image: "/gallery/team/team12_guitarist.jpg",
+    instagram: "https://instagram.com/teestrings_official"
   },
   {
     name: "Bayo",
     role: "Singer",
     image: "/gallery/team/team11_singer.jpg",
+    instagram: "https://instagram.com/oluwabayz"
   },
   {
     name: "Phillip",
     role: "Singer",
     image: "/gallery/team/singer12.jpg",
+    instagram: "https://instagram.com/philsvibe"
   },
   {
     name: "Hassan",
     role: "Media Lead",
     image: "/gallery/team/media.jpg",
+    instagram: "https://instagram.com/aliukehinde_"
   },
+  
   
 ];
 
@@ -97,10 +117,21 @@ export default function Team() {
                 className="w-full p-6 rounded-sm aspect-square object-contain bg-gray-100"
               />
               <div className="p-4 text-center">
-                <h3 className="text-xl font-semibold text-gray-900">
-                  {member.name}
-                </h3>
-                <p className="text-[#b07f32] font-medium">{member.role}</p>
+                <div className="flex items-center justify-center gap-2">
+                  
+                  <a
+                    href={member.instagram}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="flex"
+                  >
+                    <h3 className="text-xl font-semibold text-gray-900">
+                    {member.name}
+                  </h3>
+                    <FaInstagram size={20} className="mt-[5px] ml-[5px]" />
+                  </a>
+                </div>
+                <p className="text-[#b07f32] text-lg font-medium">{member.role}</p>
               </div>
             </div>
           ))}
