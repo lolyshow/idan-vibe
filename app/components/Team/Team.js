@@ -10,16 +10,16 @@ const members = [
     instagram: "https://instagram.com/mopol213"
   },
   {
-    name: "Greekreation",
-    role: "Singer",
-    image: "/gallery/team/team2_singer.jpg",
-    instagram: "https://instagram.com/its.greenkreations"
-  },
-  {
     name: "Omoluwabi",
     role: "Singer",
     image: "/gallery/team/team1_media_sing.jpg",
     instagram: "https://instagram.com/iamadeolutayo"
+  },
+  {
+    name: "Greekreation",
+    role: "Singer",
+    image: "/gallery/team/team2_singer.jpg",
+    instagram: "https://instagram.com/its.greenkreations"
   },
   {
     name: "Segun",
