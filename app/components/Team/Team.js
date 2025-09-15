@@ -31,7 +31,7 @@ const members = [
     name: "Segun",
     role: "Drummer",
     image: "/gallery/team/team4_drumer.jpg",
-    instagram: "https://instagram.com/alicejohnson"
+    instagram: "https://instagram.com/idanvibes_"
   },
   {
     name: "Mathew",
