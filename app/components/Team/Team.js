@@ -10,6 +10,12 @@ const members = [
     instagram: "https://instagram.com/mopol213"
   },
   {
+    name: "Tolu",
+    role: "Singer",
+    image: "/gallery/team/team5_singer.jpg",
+    instagram: "https://instagram.com/shangii_tee"
+  },
+  {
     name: "Omoluwabi",
     role: "Singer",
     image: "/gallery/team/team1_media_sing.jpg",
@@ -26,12 +32,6 @@ const members = [
     role: "Drummer",
     image: "/gallery/team/team4_drumer.jpg",
     instagram: "https://instagram.com/alicejohnson"
-  },
-  {
-    name: "Tolu",
-    role: "Singer",
-    image: "/gallery/team/team5_singer.jpg",
-    instagram: "https://instagram.com/shangii_tee"
   },
   {
     name: "Mathew",
@@ -97,7 +97,7 @@ export default function Team() {
     <section className="bg-gray-50 py-16 lg:pb-56 lg:mb-[22.5rem]">
       <div className="max-w-7xl mx-auto px-6 lg:px-8">
         <div className="text-center">
-          <h2 className="text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
+          <h2 className="lg:font-permanentMarker text-2xl md:text-3xl lg:text-4xl font-bold tracking-tight text-gray-900 sm:text-4xl">
             Meet Our Band
           </h2>
           <p className="mt-4 text-lg leading-8 text-gray-600">

@@ -24,14 +24,14 @@ export default function About() {
 					}}>
 					<div className="overflow-hidden">
 						<h2
-							className={`font-bold text-6xl pb-6 translate-y-20 ${
+							className={`font-bold font-permanentMarker text-2xl md:text-3xl sm:text-4xl lg:text-6xl pb-6 translate-y-20 ${
 								isInView ? "animate-slideUp" : ""
 							}`}>
 							About
 						</h2>
 					</div>
 
-					<p>
+					<p className="sm:text-base lg:text-2xl">
 					ULTIMATE IDAN VIBE, a dynamic Nigerian music band in the UK, bringing you the best of Afrobeat, Tungba, Highlife, and contemporary sound with unique twist driven by unstoppable passion for Nigerian rhythm, culture and tradition. 
 					Registered and certified by the Registrar of Companies for England and Wales, incorporated under the Companies Act 2006 given at Companies House, Cardiff with number 16072268.
 					</p>

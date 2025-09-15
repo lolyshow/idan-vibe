@@ -32,7 +32,7 @@ export default function ContactUs() {
 					<div className="flex flex-col max-w-4xl lg:text-right">
 						<div className="overflow-hidden">
 							<h2
-								className={`font-bold text-6xl pb-6 translate-y-24 ${
+								className={`font-bold font-permanentMarker text-2xl md:text-3xl sm:text-4xl lg:text-6xl pb-6 translate-y-24 ${
 									isInView ? "animate-slideUp" : ""
 								}`}>
 								Contact us

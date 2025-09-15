@@ -17,7 +17,7 @@ export default function NewAlbum({ customClasses }) {
 			}}>
 			<h4 className="text-white font-permanentMarker text-xl">Good Music</h4>
 			<h4 className="text-white font-rockSalt text-xl">For your events</h4>
-			<p className="text-fluo-green text-base">We give you unforgetable experience</p>
+			<p className="text-white text-base">We give you unforgetable experience</p>
 		</div>
 	);
 }

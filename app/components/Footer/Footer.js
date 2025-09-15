@@ -9,7 +9,7 @@ export default function Footer() {
 				<div className=" py-16">
 					<Container customClasses="flex flex-col lg:items-center lg:flex-row">
 						<div className="basis-2/3 text-white">
-							<h3 className="text-5xl font-bold">Subscribe</h3>
+							<h3 className="font-permanentMarker text-2xl md:text-3xl sm:text-4xl lg:text-5xl font-bold">Subscribe</h3>
 							<p>To our newsletter to get the latest updates and live gigs info.</p>
 						</div>
 						<div className="flex items-cente w-full mt-2.5 lg:mt-0 lg:basis-1/3 lg:justify-end">
@@ -17,9 +17,9 @@ export default function Footer() {
 						</div>
 					</Container>
 				</div>
-				<div className="bg-fluo-green pt-3 relative z-[100]">
+				<div className="bg-black pt-3 relative z-[100]">
 					<Container customClasses="flex justify-between items-center">
-						<Image className="max-w-[10rem] lg:max-w-[15rem] h-auto" src="/logo-portrait_.png" width={815} height={80} alt="Footer logo" />
+						<Image className="max-w-[7rem] lg:max-w-[10rem] h-auto" src="/logo-portrait_.png" width={700} height={70} alt="Footer logo" />
 						<div className="flex gap-3 md:gap-4">
 							<svg fill="#FFFFFF" className="max-w-[1.5rem] h-auto lg:max-w-none" width="52" height="52" id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 51.71 51.71">
 								<path d="m33.31,22.59h-4v-5.37h3.26c.58,0,1.05-.42,1.05-1.05v-5.58c0-.58-.42-1.05-1.05-1.05h-3.84c-4.16,0-7.05,2.95-7.05,7.31v5.63h-4.63c-.74,0-1.42.58-1.42,1.42v3.79c0,.74.58,1.42,1.42,1.42h4.52v11.63c0,.74.58,1.42,1.42,1.42h4.94c.32,0,.58-.16.79-.37s.37-.58.37-.89v-11.73h3.47c.68,0,1.21-.42,1.32-1.05v-.11l.74-3.63c.05-.37,0-.79-.32-1.21-.11-.26-.58-.53-1-.58Z" />
