@@ -108,7 +108,7 @@ export default function PhotoGallery() {
 					{galleryThumbnails.map((item, index) => {
 						return (
 							<div className="flex flex-col mb-5 leading-none" key={item.id}>
-								<div className="w-full h-full rounded-lg bg-fluo-green transition-all">
+								<div className="w-full h-full rounded-lg transition-all">
 									<Image
 										className="rounded-lg cursor-pointer hover:opacity-60 transition-all"
 										src={item.src}

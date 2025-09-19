@@ -78,7 +78,7 @@ const members = [
   {
     name: "Phillip",
     role: "Singer",
-    image: "/gallery/team/singer12.jpg",
+    image: "/gallery/team/philsvibe.jpg",
     instagram: "https://instagram.com/philsvibe"
   },
   {
