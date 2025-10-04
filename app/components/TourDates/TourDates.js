@@ -6,7 +6,7 @@ const tourDates = [
 		date: "4 Oct",
 		day: "Saturday",
 		time: "14.00 - 18.00",
-		venue: "Jubilee Central Hull city center",
+		venue: " Nigerian Independence @ Jubilee Central Hull city center",
 		city: "London",
 	},
 	{

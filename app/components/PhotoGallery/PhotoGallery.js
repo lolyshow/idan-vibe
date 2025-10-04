@@ -11,18 +11,18 @@ import { MapMapper, Calendar } from "@/app/svg-icons/svg-icons";
 const galleryThumbnails = [
 	{
 		id: 1,
-		src: "/gallery/slider-images/baywatch/slide1_thumbnail.jpg",
-		club: "Hive Session",
+		src: "/gallery/slider-images/afro_fierce/pic1.JPG",
+		club: "Afro Fierce",
 		city: "Hull",
-		date: "12/2/2025",
+		date: "26/09/2025",
 		slides: [
-			{ src: "/gallery/slider-images/baywatch/slide1.jpg" },
-			{ src: "/gallery/slider-images/baywatch/slide2.jpg" },
-			{ src: "/gallery/slider-images/baywatch/slide3.jpg" },
-			{ src: "/gallery/slider-images/baywatch/slide4.jpg" },
-			{ src: "/gallery/slider-images/baywatch/slide5.jpg" },
-			{ src: "/gallery/slider-images/baywatch/slide6.jpg" },
-			{ src: "/gallery/slider-images/baywatch/slide7.jpg" },
+			{ src: "/gallery/slider-images/afro_fierce/pic1.png" },
+			{ src: "/gallery/slider-images/afro_fierce/pic2.JPG" },
+			{ src: "/gallery/slider-images/afro_fierce/pic1.JPG" },
+			{ src: "/gallery/slider-images/afro_fierce/pic3.png" },
+			{ src: "/gallery/slider-images/afro_fierce/pic4.png" },
+			{ src: "/gallery/slider-images/afro_fierce/pic6.JPG" },
+			
 		],
 	},
 	{
