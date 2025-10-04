@@ -44,7 +44,7 @@ export default function Shows() {
 	return (
 		<section
 			id="shows"
-			className={`w-full relative mt-16 bg-incoming-shows bg-cover bg-no-repeat bg-center h-[32rem] lg:h-screen lg:min-h-[45rem] lg:max-h-[49rem] lg:mt-56`}
+			className={`w-full relative mt-16 bg-[#f0ede3] p-3 z-[50] lg:bg-stone-300/70 lg:backdrop-blur-lg.    bg-incoming-shows bg-cover bg-no-repeat bg-center h-[32rem] lg:h-screen lg:min-h-[45rem] lg:max-h-[49rem] lg:mt-56`}
 			style={{
 				transform: isInView ? "none" : "translateY(100px)",
 				opacity: isInView ? 1 : 0,

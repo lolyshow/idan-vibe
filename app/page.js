@@ -13,6 +13,7 @@ export default function Home() {
 				<Intro />
 				<About />
 				<Listen />
+				<Shows />
 				<ContactUs />
 				<TextParallax />
 				<PhotoGallery />

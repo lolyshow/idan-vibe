@@ -14,7 +14,7 @@ const observerOptions = {
 const tourDates = [
 	{
 		id: 1,
-		date: "",
+		date: "04/10/2025",
 		dayTime: "",
 		venue: "Ritz Bar Show event center",
 		city: "Hull City",
