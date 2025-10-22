@@ -11,7 +11,7 @@ import { MapMapper, Calendar } from "@/app/svg-icons/svg-icons";
 const galleryThumbnails = [
 	{
 		id: 1,
-		src: "/gallery/slider-images/naija_independence/flier.JPG",
+		src: "/gallery/slider-images/naija_independence/flier.jpg",
 		club: "Nigeria Indepedence",
 		city: "Hull",
 		date: "04/10/2025",
