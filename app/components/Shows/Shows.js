@@ -74,7 +74,7 @@ export default function Shows() {
 						!isScrollMoreVisible ? " opacity-0" : ""
 					}`}
 					onClick={clickHandler}>
-					<p className="text-yellow-btn-primary text-sm underline cursor-pointer">Show more</p>
+					<p className="text-yellow-btn-primary font-bold text-lg underline cursor-pointer">Show more</p>
 					<ArrowBottom />
 				</div>
 			</Container>
