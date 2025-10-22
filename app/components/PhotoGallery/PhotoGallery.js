@@ -26,7 +26,7 @@ const galleryThumbnails = [
 		],
 	},
 	{
-		id: 1,
+		id: 2,
 		src: "/gallery/slider-images/afro_fierce/pic1.JPG",
 		club: "Afro Fierce",
 		city: "Hull",
@@ -42,7 +42,7 @@ const galleryThumbnails = [
 		],
 	},
 	{
-		id: 2,
+		id: 3,
 		src: "/gallery/slider-images/baywatch/slide1_thumbnail.jpg",
 		club: "Hive Session",
 		city: "Hull",
@@ -57,7 +57,7 @@ const galleryThumbnails = [
 		],
 	},
 	{
-		id: 3,
+		id: 4,
 		src: "/gallery/slider-images/basket_mouth/thumbnail.jpg",
 		club: "Sauti session & basket mouth",
 		city: "Hull",
@@ -68,7 +68,7 @@ const galleryThumbnails = [
 		],
 	},
 	{
-		id: 4,
+		id: 5,
 		src: "/gallery/slider-images/sauti_owanbe/thumbnail.jpg",
 		club: "Gidi Vibe",
 		city: "Hull",
