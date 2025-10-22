@@ -11,13 +11,29 @@ import { MapMapper, Calendar } from "@/app/svg-icons/svg-icons";
 const galleryThumbnails = [
 	{
 		id: 1,
+		src: "/gallery/slider-images/naija_independence/flier.JPG",
+		club: "Nigeria Indepedence",
+		city: "Hull",
+		date: "04/10/2025",
+		slides: [
+			{ src: "/gallery/slider-images/naija_independence/pic1.png" },
+			{ src: "/gallery/slider-images/naija_independence/pic2.jpg" },
+			{ src: "/gallery/slider-images/naija_independence/pic1.JPG" },
+			{ src: "/gallery/slider-images/naija_independence/pic3.png" },
+			{ src: "/gallery/slider-images/naija_independence/pic4.png" },
+			{ src: "/gallery/slider-images/naija_independence/pic6.JPG" },
+			
+		],
+	},
+	{
+		id: 1,
 		src: "/gallery/slider-images/afro_fierce/pic1.JPG",
 		club: "Afro Fierce",
 		city: "Hull",
 		date: "26/09/2025",
 		slides: [
 			{ src: "/gallery/slider-images/afro_fierce/pic1.png" },
-			{ src: "/gallery/slider-images/afro_fierce/pic2.JPG" },
+			{ src: "/gallery/slider-images/afro_fierce/pic2.jpg" },
 			{ src: "/gallery/slider-images/afro_fierce/pic1.JPG" },
 			{ src: "/gallery/slider-images/afro_fierce/pic3.png" },
 			{ src: "/gallery/slider-images/afro_fierce/pic4.png" },

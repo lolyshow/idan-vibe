@@ -3,6 +3,22 @@ import ButtonPrimary from "@/app/global-components/ButtonPrimary/ButtonPrimary";
 const tourDates = [
 	{
 		id: 1,
+		date: "23 Oct",
+		day: "Thursday",
+		time: "15:30 - 16.00",
+		venue: "93.5 fm",
+		city: "Ibadan Nigeria",
+	},
+	{
+		id: 1,
+		date: "25 Oct",
+		day: "Saturday",
+		time: "12 - 16.00",
+		venue: "Hull Minster",
+		city: "London",
+	},
+	{
+		id: 1,
 		date: "4 Oct",
 		day: "Saturday",
 		time: "14.00 - 18.00",
