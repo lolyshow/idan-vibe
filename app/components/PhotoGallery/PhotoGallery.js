@@ -16,12 +16,12 @@ const galleryThumbnails = [
 		city: "Hull",
 		date: "04/10/2025",
 		slides: [
-			{ src: "/gallery/slider-images/naija_independence/pic1.png" },
+			{ src: "/gallery/slider-images/naija_independence/pic1.jpg" },
 			{ src: "/gallery/slider-images/naija_independence/pic2.jpg" },
-			{ src: "/gallery/slider-images/naija_independence/pic1.JPG" },
-			{ src: "/gallery/slider-images/naija_independence/pic3.png" },
-			{ src: "/gallery/slider-images/naija_independence/pic4.png" },
-			{ src: "/gallery/slider-images/naija_independence/pic6.JPG" },
+			{ src: "/gallery/slider-images/naija_independence/pic1.jpg" },
+			{ src: "/gallery/slider-images/naija_independence/pic3.jpg" },
+			{ src: "/gallery/slider-images/naija_independence/pic4.jpg" },
+			{ src: "/gallery/slider-images/naija_independence/pic6.jpg" },
 			
 		],
 	},
