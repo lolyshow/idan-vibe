@@ -5,13 +5,13 @@ import { FaInstagram } from "react-icons/fa";
 const members = [
   {
     name: "Phillip Olalere",
-    role: "Band leader",
+    role: "Band leader & Singer",
     image: "/gallery/team/philsvibe.jpg",
     instagram: "https://instagram.com/philsvibe"
   },
   {
     name: "Olanrewaju Olamilekan",
-    role: "Singer & Manager",
+    role: "Manager & Singer",
     image: "/gallery/team/team3_manager.jpg",
     instagram: "https://instagram.com/mopol213"
   },
