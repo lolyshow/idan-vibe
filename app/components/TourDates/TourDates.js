@@ -4,40 +4,31 @@ import Image from "next/image";
 const tourDates = [
   {
     id: 1,
-    date: "23 Oct",
+    date: "14th Feb",
     day: "Thursday",
-    time: "15:30 - 16.00",
-    venue: "Premier 93.5 fm",
-    city: "Ibadan Nigeria",
+    time: "TBD",
+    venue: "Valentine Open Show",
+    city: "Hull City",
     src: "/gallery/slider-images/premier_fm/premier_fm.jpg",
   },
   {
     id: 2,
-    date: "25 Oct",
+    date: "18th April",
     day: "Saturday",
     time: "12 - 16.00",
-    venue: "HANNA Int Fashion show Hull Minster",
+    venue: "Siclecell launching",
     city: "Hull City",
     src: "/gallery/slider-images/hanna/hanna.jpg",
   },
   {
-    id: 4,
-    date: "22 Nov",
-    day: "Wednesday",
+    id: 3,
+    date: "30 April",
+    day: "Tuesday",
     time: "20.00 - 22.00",
-    venue: "Roundhouse, Chalk Bag Rd",
+    venue: "Easter Jive",
     city: "London",
     src: "/gallery/slider-images/naija_independence/pic1.jpg",
-  },
-  {
-    id: 5,
-    date: "10 Dec",
-    day: "Saturday",
-    time: "20.00 - 22.00",
-    venue: "200 Camden High St",
-    city: "London",
-    src: "/gallery/slider-images/naija_independence/pic1.jpg",
-  },
+  }
 ];
 export default function TourDates() {
   const [isOpen, setIsOpen] = useState(false);

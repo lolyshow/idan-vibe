@@ -11,6 +11,21 @@ import { MapMapper, Calendar } from "@/app/svg-icons/svg-icons";
 const galleryThumbnails = [
 	{
 		id: 1,
+		src: "/gallery/slider-images/hana_show2025/flier.jpg",
+		club: "Nigeria Indepedence",
+		city: "Hull",
+		date: "25/10/2025",
+		slides: [
+			{ src: "/gallery/slider-images/hana_show2025/pic5.jpg" },
+			{ src: "/gallery/slider-images/hana_show2025/pic1.jpg" },
+			{ src: "/gallery/slider-images/hana_show2025/pic2.jpg" },
+			{ src: "/gallery/slider-images/hana_show2025/pic3.jpg" },
+			{ src: "/gallery/slider-images/hana_show2025/pic4.jpg" },
+			
+		],
+	},
+	{
+		id: 2,
 		src: "/gallery/slider-images/naija_independence/flier.jpg",
 		club: "Nigeria Indepedence",
 		city: "Hull",
@@ -26,7 +41,7 @@ const galleryThumbnails = [
 		],
 	},
 	{
-		id: 2,
+		id: 3,
 		src: "/gallery/slider-images/afro_fierce/pic1.JPG",
 		club: "Afro Fierce",
 		city: "Hull",
@@ -42,7 +57,7 @@ const galleryThumbnails = [
 		],
 	},
 	{
-		id: 3,
+		id: 4,
 		src: "/gallery/slider-images/baywatch/slide1_thumbnail.jpg",
 		club: "Hive Session",
 		city: "Hull",
@@ -57,7 +72,7 @@ const galleryThumbnails = [
 		],
 	},
 	{
-		id: 4,
+		id: 5,
 		src: "/gallery/slider-images/basket_mouth/thumbnail.jpg",
 		club: "Sauti session & basket mouth",
 		city: "Hull",
@@ -68,17 +83,29 @@ const galleryThumbnails = [
 		],
 	},
 	{
-		id: 5,
+		id: 6,
 		src: "/gallery/slider-images/sauti_owanbe/thumbnail.jpg",
-		club: "Gidi Vibe",
+		club: "Sauti session with Vibe",
 		city: "Hull",
-		date: "23/201/2025",
+		date: "20/02/2025",
 		slides: [
 			{ src: "/gallery/slider-images/sauti_owanbe/pic1.jpg" },
 			{ src: "/gallery/slider-images/sauti_owanbe/pic2.jpg" },
 			{ src: "/gallery/slider-images/sauti_owanbe/pic3.jpg" },
 			{ src: "/gallery/slider-images/sauti_owanbe/pic6.jpg" },
 			{ src: "/gallery/slider-images/sauti_owanbe/pic7.jpg" },
+		],
+	},
+	{
+		id: 7,
+		src: "/gallery/slider-images/damu2024/flier.jpg",
+		club: "Damu Siclecell awareness",
+		city: "Hull",
+		date: "12/10/2024",
+		slides: [
+			{ src: "/gallery/slider-images/damu2024/pic1.jpg" },
+			{ src: "/gallery/slider-images/damu2024/pic2.jpg" },
+			{ src: "/gallery/slider-images/damu2024/pic3.jpg" }
 		],
 	}
 	
