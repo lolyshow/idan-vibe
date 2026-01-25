@@ -4,61 +4,67 @@ import { FaInstagram } from "react-icons/fa";
 
 const members = [
   {
-    name: "Olanrewaju",
+    name: "Phillip Olalere",
+    role: "Band leader",
+    image: "/gallery/team/philsvibe.jpg",
+    instagram: "https://instagram.com/philsvibe"
+  },
+  {
+    name: "Olanrewaju Olamilekan",
     role: "Singer & Manager",
     image: "/gallery/team/team3_manager.jpg",
     instagram: "https://instagram.com/mopol213"
   },
   {
-    name: "Tolu",
+    name: "Olufemi Tolulope",
     role: "Singer",
     image: "/gallery/team/team5_singer.jpg",
     instagram: "https://instagram.com/shangii_tee"
   },
   {
-    name: "Omoluwabi",
+    name: "Omoluwabi Adeolutayo",
     role: "Singer",
     image: "/gallery/team/team1_media_sing.jpg",
     instagram: "https://instagram.com/iamadeolutayo"
   },
   {
     name: "Greekreation",
-    role: "Singer",
+    role: "Singer and Stylist",
     image: "/gallery/team/team2_singer.jpg",
     instagram: "https://instagram.com/its.greenkreations"
   },
   {
-    name: "Segun",
+    name: "Awoluso Oluwasegun",
     role: "Drummer",
     image: "/gallery/team/team4_drumer.jpg",
     instagram: "https://instagram.com/papilosuperstar"
   },
   {
-    name: "Mathew",
+    name: "Mathew Adeniyi",
     role: "Keyboardist",
     image: "/gallery/team/team6_pianist.jpg",
     instagram: "https://instagram.com/m.f.deniyi"
   },
   {
-    name: "Stephanie",
-    role: "Guitarist",
+    name: "Stephanie Ekekwe",
+    role: "Singer and Guitarist",
     image: "/gallery/team/team7_lead_guitarist.jpg",
     instagram: "https://instagram.com/stephanieekekwe"
   },
   {
-    name: "Dapo",
+    name: "Emmanuel Oladapo",
     role: "Singer",
     image: "/gallery/team/team8_singer.jpg",
     instagram: "https://instagram.com/idanvibes_"
   },
   {
-    name: "Tobi",
+    name: "Oluwatobi Oyalabu",
     role: "Drummer",
     image: "/gallery/team/team9_drummer.jpg",
     instagram: "https://instagram.com/_.oluwatobiloba"
   },
   {
-    name: "Babalola",
+    name: "Babalola Koleosho",
     role: "Lead Guitarist",
     image: "/gallery/team/team10_guitarist.jpg",
     instagram: "https://instagram.com/lola_soskol"
@@ -76,13 +82,7 @@ const members = [
     instagram: "https://instagram.com/oluwabayz"
   },
   {
-    name: "Phillip",
-    role: "Singer",
-    image: "/gallery/team/philsvibe.jpg",
-    instagram: "https://instagram.com/philsvibe"
-  },
-  {
-    name: "Hassan",
+    name: "Aliu Kehinde",
     role: "Media Lead",
     image: "/gallery/team/media.jpg",
     instagram: "https://instagram.com/aliukehinde_"
@@ -125,10 +125,10 @@ export default function Team() {
                     rel="noopener noreferrer"
                     className="flex"
                   >
-                    <h3 className="text-xl font-semibold text-gray-900">
+                    <p className="text-lg font-semibold text-gray-900">
                     {member.name}
-                  </h3>
-                    <FaInstagram size={20} className="mt-[5px] ml-[5px]" />
+                  </p>
+                    <FaInstagram size={17} className="mt-[5px] ml-[5px]" />
                   </a>
                 </div>
                 <p className="text-[#b07f32] text-lg font-medium">{member.role}</p>

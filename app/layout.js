@@ -27,7 +27,7 @@ const rockSalt = Rock_Salt({
 export const metadata = {
   title: "Idan Vibes Band | Official Website",
   description:
-    "Official website of the Idan Vibes Band — bringing good music to your events: weddings, birthdays, burials, and more. Meet our talented members: Phillip Olalere, Olanrewaju Olamilekan, Tolu, Olanrewaju Aany, Tobi, Dapo, and Mathew. Follow us @idanvibes_ for updates and performances.",
+    "Official website of the Idan Vibes Band — bringing good music to your events: weddings, birthdays, burials, and more. Meet our talented members: Phillip Olalere, Philsvibe, Olanrewaju Olamilekan, Tolulope Olufemi, Olanrewaju Aany, Tobi, Dapo, and Mathew. Follow us @idanvibes_ for updates and performances.",
   keywords:
     "Idan Vibes Band, Phillip Olalere, Olanrewaju Olamilekan, Tolu, Olanrewaju Aany, Tobi, Dapo, Mathew, idanvibes, idanvibes_, owanbe, tungba, gospel, live band, event music, Nigerian band, party music, wedding band, Yoruba music, live performance",
   openGraph: {
