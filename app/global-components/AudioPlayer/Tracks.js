@@ -1,11 +1,11 @@
 export const tracks = [
 	{
-		title: "Naming Show live",
-		src: "./mp3-songs/short_clip.mp3",
+		title: "New year Celebration",
+		src: "./mp3-songs/shoutout.mp3",
 		author: "Idan Vibe",
 	},
 	{
-		title: "Sauti Session",
+		title: "Naming Show live",
 		src: "./mp3-songs/short_clip.mp3",
 		author: "Idan Vibe",
 	},
