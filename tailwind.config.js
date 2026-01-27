@@ -9,7 +9,7 @@ module.exports = {
 		extend: {
 			backgroundImage: {
 				"album-cover": "url('/logo-portrait_.jpg')",
-				"incoming-shows": "url('/coming-shows-bg.PNG')",
+				"incoming-shows": "url('/coming-shows-bg.png')",
 				"hero-pattern": "url('/pattern.png')",
 			},
 			fontFamily: {
