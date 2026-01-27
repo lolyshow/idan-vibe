@@ -25,7 +25,7 @@ export default function InstagramSection({
   }, [posts]);
 
   return (
-    <section className="py-12 sm:ml-[20px] " >
+    <section className="py-12 sm:mx-[20px] " >
       {/* Title */}
       {title && (
         <h2 className="text-2xl font-semibold text-center mb-8">
