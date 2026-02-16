@@ -58,6 +58,19 @@ const members = [
     instagram: "https://instagram.com/idanvibes_"
   },
   {
+    name: "Adebayo David Oladeji",
+    role: "Singer",
+    image: "/gallery/team/team11_singer.jpg",
+    instagram: "https://instagram.com/oluwabayz"
+  },
+  {
+    name: "Samuel Ikott",
+    role: "Singer & Saxophonist",
+    image: "/gallery/team/team13.jpg",
+    instagram: "https://instagram.com/oluwabayz"
+  },
+
+  {
     name: "Oluwatobi Oyalabu",
     role: "Drummer",
     image: "/gallery/team/team9_drummer.jpg",
@@ -75,12 +88,7 @@ const members = [
     image: "/gallery/team/team12_guitarist.jpg",
     instagram: "https://instagram.com/teestrings_official"
   },
-  {
-    name: "Bayo",
-    role: "Singer",
-    image: "/gallery/team/team11_singer.jpg",
-    instagram: "https://instagram.com/oluwabayz"
-  },
+  
   {
     name: "Aliu Kehinde",
     role: "Media Lead",
