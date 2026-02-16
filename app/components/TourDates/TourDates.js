@@ -4,10 +4,10 @@ import Image from "next/image";
 const tourDates = [
   {
     id: 1,
-    date: "14th Feb",
+    date: "30th Feb",
     day: "Thursday",
     time: "TBD",
-    venue: "Valentine Open Show",
+    venue: "Faaji Special",
     city: "Hull City",
     src: "/gallery/slider-images/premier_fm/premier_fm.jpg",
   },
