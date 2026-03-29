@@ -95,6 +95,12 @@ const members = [
     image: "/gallery/team/media.jpg",
     instagram: "https://instagram.com/aliukehinde_"
   },
+  {
+    name: "Emordo Ifeanyi Joseph",
+    role: "Producer and Music Arranger",
+    image: "/gallery/team/producer.jpg",
+    instagram: "https://www.instagram.com/iamjomodi?igsh=MWgxbmpnNnd5NmQzaQ=="
+  },
   
   
 ];
