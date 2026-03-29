@@ -4,12 +4,12 @@ import Image from "next/image";
 const tourDates = [
   {
     id: 1,
-    date: "30th Feb",
-    day: "Thursday",
+    date: "4th April",
+    day: "Saturday",
     time: "TBD",
-    venue: "Faaji Special",
-    city: "Hull City",
-    src: "/gallery/slider-images/premier_fm/premier_fm.jpg",
+    venue: "Easter Owanbe Fiesta(FUTA ALUMNI)",
+    city: "Sheffield S11 8HA",
+    src: "/gallery/events-photos/futa_alumni.jpg",
   },
   {
     id: 2,
