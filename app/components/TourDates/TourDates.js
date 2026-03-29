@@ -17,8 +17,8 @@ const tourDates = [
     day: "Saturday",
     time: "12 - 16.00",
     venue: "Siclecell launching",
-    city: "Hull City",
-    src: "/gallery/slider-images/hanna/hanna.jpg",
+    city: "Welcome House",
+    src: "/gallery/events-photos/damu.JPG",
   },
   {
     id: 3,
