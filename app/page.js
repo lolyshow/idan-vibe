@@ -22,7 +22,7 @@ export default function Home() {
 						'https://www.instagram.com/reel/DO1jX4fjPFo/?igsh=MW9ueHVleDF6a2swYQ==',
 						'https://www.instagram.com/p/DQH2VQdjFyT/?igsh=MXBrNHZrdHhwaGhpeg==',
 						'https://www.instagram.com/p/DPhaiWPjEVA/?igsh=MXgzODUwc25xbjd1dQ==',
-						'https://www.instagram.com/p/DPWJFB1DLLL/?igsh=ZXpzZWx6ZmJzMzVs'
+						'https://www.instagram.com/p/DPWJFB1DLLL/?igsh=ZXpzZWx6ZmJzMzVs=='
 					]}
 					/>
 				<Shows />

@@ -161,10 +161,10 @@ export default function PhotoGallery() {
 									<MapMapper />
 									<h5 className="ml-2 text-sm md:text-lg">{item.city}</h5>
 								</span>
-								<span className="flex">
+								{/* <span className="flex">
 									<Calendar />
 									<h5 className="ml-2 text-sm md:text-lg">{item.date}</h5>
-								</span>
+								</span> */}
 							</div>
 						);
 					})}

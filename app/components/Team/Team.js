@@ -101,6 +101,12 @@ const members = [
     image: "/gallery/team/producer.jpg",
     instagram: "https://www.instagram.com/iamjomodi?igsh=MWgxbmpnNnd5NmQzaQ=="
   },
+  {
+    name: "Sunday paul Akinsola",
+    role: "Keyboardist and Guitarist",
+    image: "/gallery/team/team14.JPG",
+    instagram: "https://www.instagram.com/paulakinsolasunday?igsh=OGYzbnF0MWhubW9v"
+  }
   
   
 ];
