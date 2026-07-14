@@ -40,12 +40,6 @@ const members = [
     instagram: "https://instagram.com/papilosuperstar"
   },
   {
-    name: "Mathew Adeniyi",
-    role: "Keyboardist",
-    image: "/gallery/team/team6_pianist.jpg",
-    instagram: "https://instagram.com/m.f.deniyi"
-  },
-  {
     name: "Stephanie Ekekwe",
     role: "Singer and Guitarist",
     image: "/gallery/team/team7_lead_guitarist.jpg",
@@ -101,8 +95,6 @@ const members = [
     image: "/gallery/team/team14.JPG",
     instagram: "https://www.instagram.com/paulakinsolasunday?igsh=OGYzbnF0MWhubW9v"
   }
-  
-  
 ];
 
 export default function Team() {
