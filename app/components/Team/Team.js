@@ -10,6 +10,12 @@ const members = [
     instagram: "https://instagram.com/philsvibe"
   },
   {
+    name: "Emmanuel Oladapo",
+    role: "Deputy Band Leader",
+    image: "/gallery/team/team8_singer.jpg",
+    instagram: "https://instagram.com/idanvibes_"
+  },
+  {
     name: "Olanrewaju Olamilekan",
     role: "Manager & Singer",
     image: "/gallery/team/team3_manager.jpg",
@@ -44,12 +50,6 @@ const members = [
     role: "Singer and Guitarist",
     image: "/gallery/team/team7_lead_guitarist.jpg",
     instagram: "https://instagram.com/stephanieekekwe"
-  },
-  {
-    name: "Emmanuel Oladapo",
-    role: "Singer",
-    image: "/gallery/team/team8_singer.jpg",
-    instagram: "https://instagram.com/idanvibes_"
   },
   {
     name: "Adebayo David Oladeji",
