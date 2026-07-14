@@ -5,7 +5,7 @@ import { FaInstagram } from "react-icons/fa";
 const members = [
   {
     name: "Phillip Olalere",
-    role: "Band leader & Singer",
+    role: "Band Leader & Singer",
     image: "/gallery/team/philsvibe.jpg",
     instagram: "https://instagram.com/philsvibe"
   },
