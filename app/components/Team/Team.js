@@ -40,22 +40,10 @@ const members = [
     instagram: "https://instagram.com/its.greenkreations"
   },
   {
-    name: "Awoluso Oluwasegun",
+    name: "Awolusi Oluwasegun",
     role: "Drummer",
     image: "/gallery/team/team4_drumer.jpg",
     instagram: "https://instagram.com/papilosuperstar"
-  },
-  {
-    name: "Stephanie Ekekwe",
-    role: "Singer and Guitarist",
-    image: "/gallery/team/team7_lead_guitarist.jpg",
-    instagram: "https://instagram.com/stephanieekekwe"
-  },
-  {
-    name: "Adebayo David Oladeji",
-    role: "Singer",
-    image: "/gallery/team/team11_singer.jpg",
-    instagram: "https://instagram.com/oluwabayz"
   },
   {
     name: "Samuel Ikott",
