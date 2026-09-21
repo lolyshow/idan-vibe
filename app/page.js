@@ -7,7 +7,6 @@ import ContactUs from "./components/ContactUs/ContactUs";
 import PhotoGallery from "./components/PhotoGallery/PhotoGallery";
 import TextParallax from "./components/TextParallax/TextParallax";
 import Team from "./components/Team/Team";
-import TemporaryTours from "./components/TemporaryTours/TemporaryTours";
 export default function Home() {
 	return (
 		<>
@@ -15,7 +14,6 @@ export default function Home() {
 				<Intro />
 				<About />
 				<Listen />
-				<TemporaryTours/>
 				<InstagramSection
 					title="See what we’re up to"
 					profileUrl="https://www.instagram.com/idanvibes_?igsh=NDlmdDdjdDdsNDJm&utm_source=qr"
