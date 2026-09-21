@@ -6,7 +6,7 @@ import Lightbox from "yet-another-react-lightbox";
 import "yet-another-react-lightbox/styles.css";
 import Image from "next/image";
 import Container from "@/app/global-components/Container/Container";
-import { MapMapper, Calendar } from "@/app/svg-icons/svg-icons";
+import { MapMapper } from "@/app/svg-icons/svg-icons";
 
 const galleryThumbnails = [
 	{

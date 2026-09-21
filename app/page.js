@@ -7,6 +7,7 @@ import ContactUs from "./components/ContactUs/ContactUs";
 import PhotoGallery from "./components/PhotoGallery/PhotoGallery";
 import TextParallax from "./components/TextParallax/TextParallax";
 import Team from "./components/Team/Team";
+import TemporaryTours from "./components/TemporaryTours/TemporaryTours";
 export default function Home() {
 	return (
 		<>
@@ -14,15 +15,16 @@ export default function Home() {
 				<Intro />
 				<About />
 				<Listen />
+				<TemporaryTours/>
 				<InstagramSection
 					title="See what we’re up to"
 					profileUrl="https://www.instagram.com/idanvibes_?igsh=NDlmdDdjdDdsNDJm&utm_source=qr"
 					posts={[
 						
-						'https://www.instagram.com/reel/DO1jX4fjPFo/?igsh=MW9ueHVleDF6a2swYQ==',
-						'https://www.instagram.com/p/DQH2VQdjFyT/?igsh=MXBrNHZrdHhwaGhpeg==',
-						'https://www.instagram.com/p/DPhaiWPjEVA/?igsh=MXgzODUwc25xbjd1dQ==',
-						'https://www.instagram.com/p/DPWJFB1DLLL/?igsh=ZXpzZWx6ZmJzMzVs=='
+						'https://www.instagram.com/p/DdYT8UvjEae/?stkn=bzB5amt4cG5nenN2',
+						'https://www.instagram.com/reel/DdX2lfiMHpE/?stkn=MTNqaGE2MWZzNXIz',
+						'https://www.instagram.com/p/DdV40hUCGPY/?stkn=bDhkd214OXViZGxl',
+						'https://www.instagram.com/p/DcdX48Lo_qp/?stkn=MWw1ZDIyY3MyNWxlbg=='
 					]}
 					/>
 				<Shows />
